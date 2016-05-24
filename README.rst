@@ -47,3 +47,4 @@ This project uses a pipeline to filter out websites containing certain
 forbidden words in their description. This pipeline is defined in the class::
 
     dirbot.pipelines.FilterWordsPipeline
+Thanks！
