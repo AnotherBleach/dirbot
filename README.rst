@@ -48,3 +48,4 @@ forbidden words in their description. This pipeline is defined in the class::
 
     dirbot.pipelines.FilterWordsPipeline
 Thanks！
+ok!
